@@ -1,5 +1,6 @@
 {
   "expo": {
+     
     "name": "Phone",
     "slug": "Phone",
     "version": "1.0.0",
@@ -19,6 +20,7 @@
     ],
     "ios": {
       "supportsTablet": true
+
     },
     "android": {
       "adaptiveIcon": {
@@ -29,5 +31,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
-  }
+  },
+  
+   "jsEngine": "hermes"
 }
